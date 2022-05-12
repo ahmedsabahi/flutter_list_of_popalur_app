@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:list_of_popular/models/popular.dart';
 import 'package:flutter_rating_bar/flutter_rating_bar.dart';
+import 'package:list_of_popular/models/popular.dart';
 
 class DetailsScreen extends StatelessWidget {
   final Result popular;
